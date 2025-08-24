@@ -15,6 +15,8 @@ This hardware is intended as a foundation for embedded applications requiring re
 
 ![](doc/kicad-1.png)
 
+![](doc/nxp35-foto-1.jpg)
+
 ---
 ## See also
 
